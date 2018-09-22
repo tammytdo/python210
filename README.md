@@ -1,4 +1,4 @@
-# python210
+# Python210
 PYTHON 210: Programming In Python, University of Washington Professional Continuing Education
 
 Repeat of all coursework
